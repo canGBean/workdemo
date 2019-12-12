@@ -1,0 +1,5 @@
+mybatis.type-handlers-package = com.example.mybatis.demomybatis.handler
+mybatis.configuration.map-underscore-to-camel-case = true
+
+mybatis.mapper-locations=classpath*:/mapper/**/*.xml
+mybatis.type-aliases-package=com.example.mybatis.demomybatis.model
